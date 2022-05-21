@@ -10,7 +10,7 @@ namespace DemoApi.Controllers
         [HttpGet]
         public string EmpList()
         {
-            return "Sathiya-1";
+            return "Sathiya";
         }
     }
 }
